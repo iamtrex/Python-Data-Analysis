@@ -1,3 +1,8 @@
+# My stuff
+# Idea files
+.idea/*
+
+# Default .gitignore from GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
